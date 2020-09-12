@@ -19,6 +19,8 @@
     "no-console": "off",
     "react/jsx-props-no-spreading": "off",
     "no-shadow": "off",
-    "no-plusplus": "off"
+    "no-plusplus": "off",
+    "react/prop-types": "off",
+    "no-param-reassign": "off"
   }
 }
